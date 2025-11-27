@@ -6,7 +6,7 @@
 
 ## How can I edit this code?
 
-Person 2 changed
+Person 1 change.
 
 **Use Lovable**
 
